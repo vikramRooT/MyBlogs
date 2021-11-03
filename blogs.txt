@@ -1,0 +1,3 @@
+authentication bypass exploiting JWT - https://medium.com/@vikramroot/unauthorized-access-to-any-users-account-600e8efe7de0
+
+account takeover via stored xss - https://medium.com/@vikramroot/account-takeover-via-stored-xss-b774f7a2a3ab
